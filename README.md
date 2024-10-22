@@ -1,4 +1,7 @@
 
+![image](https://github.com/user-attachments/assets/a0851f82-b4be-46a6-aa7e-b88573e56dbe)
+
+
 # Project-4-Life-Expectancy-Tool
 
 ## Proposal Title: Predicting Life Expectancy Using Socioeconomic and Health Data
