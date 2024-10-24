@@ -1,19 +1,23 @@
 
-![image](https://github.com/user-attachments/assets/a0851f82-b4be-46a6-aa7e-b88573e56dbe)
+![image](https://github.com/user-attachments/assets/9812c70c-16ea-45da-ab09-00e957fe2f79)
 
 
-# Project-4-Life-Expectancy-Tool
 
-## Proposal Title: Predicting Life Expectancy Using Socioeconomic and Health Data
+# Project-4-Domain: Insurance
+
+## Proposal Title: Project Introduction: Predicting Life Expectancy for Insurance Premium Adjustment
+
+In the rapidly evolving landscape of the insurance industry, accurate risk assessment is crucial for profitability and sustainability. Life expectancy is a key factor influencing how insurance companies evaluate risk and set premium pricing for life and health insurance policies.
 
 ## Objective:
-The goal of this project is to develop a predictive model using health factors, including income level, access to healthcare, education machine learning model that estimates life expectancy based on various socioeconomic, and lifestyle choices. This model will assist in identifying key indicators that contribute to life expectancy and inform public health policies.
+The objective is to create a modelling tool that insurance companies could utilise to make predictions of life expectancy to set premiums that reflect the actual risk level of their policyholders. For example, if a demographic shows a higher predicted life expectancy due to favorable health and economic conditions, insurers may adjust premiums downward, making their offerings more attractive. Life expectancy provides insight into the average lifespan of individuals within specific demographics or populations, allowing insurers to estimate the likelihood and timing of claims. By understanding the factors that contribute to varying life expectancies—such as health conditions, socio-economic status, and lifestyle choices—insurance companies can more accurately assess the risk associated with insuring individuals.
 
-## Motivation:
-Life expectancy is a key measure of population health and socioeconomic well-being. By understanding the relationship between life expectancy and influencing factors like healthcare access, lifestyle, and economic status, governments and organizations can better allocate resources and improve public health strategies. Predictive modeling can also assist in identifying at-risk populations.
+Competitive Advantage: Companies that utilize sophisticated predictive models can differentiate themselves in a crowded market. By providing personalized premium pricing based on a predictive analysis of life expectancy, insurers can improve customer satisfaction and loyalty while maintaining profitability
 
 ## Data Source:
 World Bank Life Expectancy and Socio-Economic Data: Contains life expectancy data along with variables such as GDP, schooling, and immunization. 
 Available on Kaggle https://www.kaggle.com/datasets/mjshri23/life-expectancy-and-socio-economic-world-bank/
+
+## Ethical Considerations
 
 
